@@ -1,1 +1,1 @@
-# FaceBook Mini Back-End App
+# ACTIVITY TRACKER API
